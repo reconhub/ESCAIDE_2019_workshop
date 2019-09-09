@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Health Emergency Analytics Workshop March 2019</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Health Emergency Analytics Workshop March 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our aims</title>
+      <link>/post/aims/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/aims/</guid>
+      <description>The main aim of this three-day workshop will be to discuss the processes relating to the development and dissemination of data collection and analysis to support outbreak response and humanitarian health emergency activities in low and middle income countries (LMICs).
+We anticipate that the meeting will provide an opportunity for participants to share views and experiences during operations which will help to develop and foster partnerships across institutions and countries with a strong emphasis on leadership from partners in LMICs.</description>
+    </item>
+    
+    <item>
+      <title>Organisers</title>
+      <link>/post/organisers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/organisers/</guid>
+      <description>Organising committee Main organisers  Amrish Baidjoe (Imperial College London / RECON / EAN): Research Associate in health emergencies operational support, research and capacity building, president of the EAN and vice-president of RECON.
+ Patrick Keating (UK-PHRST / London School of Hygiene and Tropical Medicine / EDK / RECON) Data scientist with the UK-PHRST, member of the Emergency and Epidemic Data Kit team and field deployment coordinator with RECON.</description>
+    </item>
+    
+    <item>
+      <title>Practical information</title>
+      <link>/post/practical_info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/practical_info/</guid>
+      <description>Dates The meeting will start on the 20 March 2019 morning, and end on the 22 March 2019 late afternoon. On Wednesday morning, registration will open at 0815.
+Venue The event will be hosted at the Wellcome Trust building near Euston station. The full address is:
+Wellcome Trust
+215 Euston Rd, Bloomsbury
+London NW1 2BE
+United Kingdom Reception Tel: +44 207 611 5771 Contact page
+Upon arrival at the venue please register at the reception and ask for Sinead Mathias or Zoe Seager</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>/post/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/schedule/</guid>
+      <description>A final agenda can be found here (right click, save link as, to download).
+A list of delegates can be found here (right click, save link as, to download).
+The meeting will be a 3-day interactive event. Day 1 and 2 will be a mix between showcases from different stakeholders on recent developments and joint projects in the area of operational data analytics. The latter half of the second day and the third day will be used to develop a joint strategic roadmap to identify joint project oppurtunities in support of countries affected by humanitarian health emergencies and outbreaks.</description>
+    </item>
+    
+    <item>
+      <title>Supporting partners</title>
+      <link>/post/sponsors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sponsors/</guid>
+      <description>UK Public Health Rapid Support Team Through the UK Public Health Rapid Support Team (UK-PHRST), the UK has the capacity to respond rapidly to disease outbreaks in low- and middle-income countries around the world and conduct operational research into epidemic preparedness, playing an important role in global health security. The team also works to help countries to build their own capacity for an improved and rapid national response to outbreaks.</description>
+    </item>
+    
+  </channel>
+</rss>
