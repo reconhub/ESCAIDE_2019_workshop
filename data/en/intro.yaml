@@ -1,7 +1,6 @@
 title:
-- line: 'Health Emergency Analytics Workshop'
-#- line: 'A workshop to jointly develop a roadmap'
+- line: 'Outbreak analytics using R: from basics to advanced tools'
 
 description:
-- line: 'Bringing people together to define a roadmap for health emergency analytics and operational research.'
-- line: 'Wellcome Trust, London, 20-22 March 2019'
+- line: 'Two days before ESCAIDE, RECON will be running two short courses in parallel: i) introduction to epidemiological analysis and ii) R for emergency outbreak analytics: a tour through the tools used in the Ebola response in North Kivu, DRC.'
+- line: 'ECDC, Stockholm, 25-26 November 2019'

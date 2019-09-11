@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Health Emergency Analytics Workshop March 2019"
-baseURL = "https://datameeting2019.netlify.com/"
+title = "Outbreak analytics using R"
+baseURL = "https://recon-escaide-2019.netlify.com/"
 theme = "../.."
 googleanalytics = ""
 disqusShortname = ""
