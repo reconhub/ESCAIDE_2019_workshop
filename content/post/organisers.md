@@ -33,7 +33,8 @@ disableComments = true
 * [**Claire Thompson**](https://www.imperial.ac.uk/people/c.thomson) (ICL /
   RECON): manager of the NIHR-HPRU grant for modelling methodology hosted at
   Imperial College London, Claire is a board member of RECON and has been
-  instrumental in organising a number of RECON events.
+  instrumental in organising a number of RECON events. She is handling logistics
+  for the short course.
 
 
 
