@@ -90,7 +90,7 @@ home page will list them from the most recent to the oldest.
 
 To add new post, copy and existing `md` in `content/post/`, rename it, and
 change its content as you see fit. You will need to add a ligne in
-`layouts/partials/` if you want to add a link to this post in the nav bar. See
+`layouts/partials/nav.html` if you want to add a link to this post in the nav bar. See
 these lignes:
 
 ```{html}
