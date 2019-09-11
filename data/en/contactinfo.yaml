@@ -1,11 +1,11 @@
 contactformaction: 'post-action'
 
 address:
-- line: 'Wellcome Trust'
-- line: '215 Euston Rd, Bloomsbury'
-- line: 'London NW1 2BE'
-- line: 'United Kingdom'
+- line: 'European Centre for Disease Prevention and Control'
+- line: 'Gustav III:s Boulevard 40'
+- line: '16973 Solna, Stockholm'
+- line: 'Sweden'
 
 #phone: '...'
 
-email: 'Elizabeth.McFarland@phe.gov.uk; Amrish.Baidjoe@gmail.com'
+email: 'amrish.baidjoe@gmail.com'

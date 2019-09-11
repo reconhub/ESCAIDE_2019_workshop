@@ -9,9 +9,16 @@ disableComments = true
 
 
 
-## Organising committee
 
-### Organisers
+## Organisers
+
+* **Amrish Baidjoe** (RECON / EAN): Researcher and consultant in health
+  emergencies operational support, research and capacity building, president of
+  the [EAN](https://epietalumni.net/) and vice-president of
+  [RECON](https://www.repidemicsconsortium.org/). Amrish has extensive field
+  experience, and has spent the last months working with WHO on the Rohingya
+  refugees crisis. Course organiser and trainer.
+
 
 * [**Thibaut Jombart**](https://thibautjombart.netlify.com/) (LSHTM / ICL /
   RECON / EAN): Associate Professor in Outbreak Analytics at LSHTM, Senior
@@ -22,24 +29,32 @@ disableComments = true
   analytics.
 
 
-* **Amrish Baidjoe** (RECON / EAN): Researcher and consultant in health
-  emergencies operational support, research and capacity building, president of
-  the [EAN](https://epietalumni.net/) and vice-president of
-  [RECON](https://www.repidemicsconsortium.org/). Amrish has extensive field
-  experience, and has spent the last months working with WHO on the Rohingya
-  refugees crisis. Course organiser and trainer.
-
-
-* [**Claire Thompson**](https://www.imperial.ac.uk/people/c.thomson) (ICL /
-  RECON): manager of the NIHR-HPRU grant for modelling methodology hosted at
-  Imperial College London, Claire is a board member of RECON and has been
-  instrumental in organising a number of RECON events. She is handling logistics
-  for the short course.
+* [**Claire Thomson**](https://www.imperial.ac.uk/people/c.thomson) (ICL /
+  RECON): manager of the NIHR-HPRU for modelling methodology hosted at Imperial
+  College London, Claire has a background in clinical and public health
+  research. She is an executive board member for RECON and has been instrumental in
+  organising a number of RECON events. She is handling logistics for these short
+  courses.
 
 
 
 
-### Trainers
+## Trainers
+
+<!-- * [**Amy Gimma**](https://www.lshtm.ac.uk/aboutus/people/gimma.amy) (LSHTM / -->
+<!--   RECON): Research Fellow in Outbreak Analytics, Amy is a trained nurse with -->
+<!--   field experience, an infectious disease epidemiologist and a professional -->
+<!--   software developer. She is involved in a development of methods and tools for -->
+<!--   outbreak response analytics. -->
+
+
+
+* [**Finlay Campbell**](https://www.imperial.ac.uk/people/f.campbell15) (ICL /
+  RECON): Research Associate in Operational Outbreak Analytics, Finlay
+  specialises in outbreak reconstruction methods. He is a core developer of
+  RECON packages, and has been integral part of our roster of trainers since our
+  first short courses.
+  
 
 * [**Christopher Jarvis**](https://uk.linkedin.com/in/c-jarvis) (LSHTM / RECON /
   MAPACTION): Research Fellow in Statistical Epidemiology, member of Map Action

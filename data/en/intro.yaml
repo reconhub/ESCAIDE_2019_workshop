@@ -1,6 +1,13 @@
 title:
-- line: 'Outbreak analytics using R: from basics to advanced tools'
+- line: 'Epi + R: from basics to advanced tools'
+
 
 description:
-- line: 'Two days before ESCAIDE, RECON will be running two short courses in parallel: i) introduction to epidemiological analysis and ii) R for emergency outbreak analytics: a tour through the tools used in the Ebola response in North Kivu, DRC.'
+
+- line: 'Two days before ESCAIDE. Two courses in parallel. Double the fun.'
+
+- line: 'Course #1 /// Introduction to epidemiological analysis using R.'
+
+- line: 'Course #2 /// Advanced course: tools for emergency outbreak response.'
+
 - line: 'ECDC, Stockholm, 25-26 November 2019'

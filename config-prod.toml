@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Health Emergency Analytics"
+title = "Outbreak Analytics using R"
 baseURL = "http://localhost:1313/"
 theme = "../.."
 googleanalytics = ""
