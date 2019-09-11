@@ -70,3 +70,11 @@ disableComments = true
   user-friendly analysis templates for field epidemiologists.
 
 
+
+
+* [**Lilith Whittles**](https://lilithwhittles.com/) (ICL): Research Associate
+  in Infectious Disease Modelling, Lilith specialises in transmission dynamics
+  modelling and has worked on a variety of bacterial pathogens including bubonic
+  plague and super-gonorrhoea.
+  
+
