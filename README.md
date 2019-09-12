@@ -1,4 +1,6 @@
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b7e5cdb-c7c6-4e24-a2d1-0afc1e788fee/deploy-status)](https://app.netlify.com/sites/recon-escaide-2019/deploys)
+
 # Epi + R: two short courses at ESCAIDE 2019
 
 This github repository is used to develop the website of the courses ran by RECON at ESCAIDE 2019, Stockholm.
