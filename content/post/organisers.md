@@ -21,7 +21,7 @@ disableComments = true
 
 
 * [**Thibaut Jombart**](https://thibautjombart.netlify.com/) (LSHTM / ICL /
-  RECON / EAN): Associate Professor in Outbreak Analytics at LSHTM, Senior
+  UKPHRST / RECON / EAN): Associate Professor in Outbreak Analytics at LSHTM, Senior
   Lecturer in Genetic Analysis at Imperial College London, and president of
   [RECON](https://www.repidemicsconsortium.org/). Main developer of the data
   analytics pipeline used to inform the response to Ebola in North Kivu,
@@ -57,7 +57,7 @@ disableComments = true
   
 
 * [**Christopher Jarvis**](https://uk.linkedin.com/in/c-jarvis) (LSHTM / RECON /
-  MAPACTION): Research Fellow in Statistical Epidemiology, member of Map Action
+  MAPACTION / UKPHRST): Research Fellow in Statistical Epidemiology, member of Map Action
   and RECON, Chris has been on several field deployments in response to health
   emergencies, including recently as a core member of the analytics cell for the
   Ebola response in North Kivu, DRC.
@@ -68,8 +68,6 @@ disableComments = true
   been a key developer of the [R4epi](https://github.com/R4EPI/sitrep) project,
   a collaboration between MSF and RECON aiming to provide powerful,
   user-friendly analysis templates for field epidemiologists.
-
-
 
 
 * [**Lilith Whittles**](https://lilithwhittles.com/) (ICL): Research Associate

@@ -51,10 +51,13 @@ Basic knowledge of **R** is mandatory for this course. This includes familiarity
 with the following:
 
 * basic classes of objects: `vector`, `matrix`, `data.frame`, `list` and how to
-  subset them
+  handle them
 * reading data into **R** from text files or Excel spreadsheets
 * basic plotting system or *gglot2*
-* finding documentation, including for generic/methods (e.g. `plot.incidence`)
+* subsetting objects using the `$`, `[`, `[[` operators
+* basic logical operations (`==`, `!=`, `>` etc.)
+* basic loops (`for`, `lapply`, `tapply`)
+* *rmarkdown*
 
 
 
