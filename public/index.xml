@@ -1,69 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Health Emergency Analytics Workshop March 2019</title>
-    <link>/</link>
-    <description>Recent content on Health Emergency Analytics Workshop March 2019</description>
+    <title>Outbreak analytics using R</title>
+    <link>https://recon-escaide-2019.netlify.com/</link>
+    <description>Recent content on Outbreak analytics using R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://recon-escaide-2019.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Our aims</title>
-      <link>/post/aims/</link>
+      <title>Overview of the courses</title>
+      <link>https://recon-escaide-2019.netlify.com/post/overview/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/aims/</guid>
-      <description>The main aim of this three-day workshop will be to discuss the processes relating to the development and dissemination of data collection and analysis to support outbreak response and humanitarian health emergency activities in low and middle income countries (LMICs).
-We anticipate that the meeting will provide an opportunity for participants to share views and experiences during operations which will help to develop and foster partnerships across institutions and countries with a strong emphasis on leadership from partners in LMICs.</description>
+      <guid>https://recon-escaide-2019.netlify.com/post/overview/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Organisers</title>
-      <link>/post/organisers/</link>
+      <title>Overview of the courses</title>
+      <link>https://recon-escaide-2019.netlify.com/post/overview/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://recon-escaide-2019.netlify.com/post/overview/</guid>
+      <description>Our two courses will be running in parallel ahead of ESCAIDE 2019 in Stockholm, on the 25-26th November 2019. See the practical information section for details on venue and timings.
+Course #1 /// Introduction to epidemiological analysis using R Outline  Level: accessible to R beginners; see pre-requisites on the registration page. Capacity: 40 participants Summary: an introduction to using R for epidemiological analysis.  Course content A more detailed programme will be communicated closer to the event.</description>
+    </item>
+    
+    <item>
+      <title>Meet the team</title>
+      <link>https://recon-escaide-2019.netlify.com/post/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/organisers/</guid>
-      <description>Organising committee Main organisers  Amrish Baidjoe (Imperial College London / RECON / EAN): Research Associate in health emergencies operational support, research and capacity building, president of the EAN and vice-president of RECON.
- Patrick Keating (UK-PHRST / London School of Hygiene and Tropical Medicine / EDK / RECON) Data scientist with the UK-PHRST, member of the Emergency and Epidemic Data Kit team and field deployment coordinator with RECON.</description>
+      <guid>https://recon-escaide-2019.netlify.com/post/team/</guid>
+      <description>Organisers  Amrish Baidjoe (RECON / EAN): Researcher and consultant in health emergencies operational support, research and capacity building, president of the EAN and vice-president of RECON. Amrish has extensive field experience, and has spent the last months working with WHO on the Rohingya refugees crisis. Course organiser and trainer.
+ Thibaut Jombart (LSHTM / ICL / UKPHRST / RECON / EAN): Associate Professor in Outbreak Analytics at LSHTM, Senior Lecturer in Genetic Analysis at Imperial College London, and president of RECON.</description>
     </item>
     
     <item>
       <title>Practical information</title>
-      <link>/post/practical_info/</link>
+      <link>https://recon-escaide-2019.netlify.com/post/practical_info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/practical_info/</guid>
-      <description>Dates The meeting will start on the 20 March 2019 morning, and end on the 22 March 2019 late afternoon. On Wednesday morning, registration will open at 0815.
-Venue The event will be hosted at the Wellcome Trust building near Euston station. The full address is:
-Wellcome Trust
-215 Euston Rd, Bloomsbury
-London NW1 2BE
-United Kingdom Reception Tel: +44 207 611 5771 Contact page
-Upon arrival at the venue please register at the reception and ask for Sinead Mathias or Zoe Seager</description>
+      <guid>https://recon-escaide-2019.netlify.com/post/practical_info/</guid>
+      <description>Dates The courses will take place at the same time, in the two days leading up to ESCAIDE, on Monday 25 and Tuesday 26th November 2019. Precise time will be confirmed closer to the event.
+Venue The event will be hosted at the European Centre for Disease Prevention and Control (ECDC) in Stockholm, Sweden. The exact address will be confirmed closer to the event.</description>
     </item>
     
     <item>
-      <title>Schedule</title>
-      <link>/post/schedule/</link>
+      <title>Registration</title>
+      <link>https://recon-escaide-2019.netlify.com/post/register/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/schedule/</guid>
-      <description>A final agenda can be found here (right click, save link as, to download).
-A list of delegates can be found here (right click, save link as, to download).
-The meeting will be a 3-day interactive event. Day 1 and 2 will be a mix between showcases from different stakeholders on recent developments and joint projects in the area of operational data analytics. The latter half of the second day and the third day will be used to develop a joint strategic roadmap to identify joint project oppurtunities in support of countries affected by humanitarian health emergencies and outbreaks.</description>
+      <guid>https://recon-escaide-2019.netlify.com/post/register/</guid>
+      <description>Application process How it works Applications will be made through the application form at the end of this page. Participants will be selected on a first arrived, first served basis. The process will work as follows:
+ participant sends an application using the provided form if room is available, payment details are sent to the participant; otherwise, participant is put on the waiting list final confirmation is sent when payment is received; if no payment is received within 7 days, the application will be considered cancelled  Note that the two courses will be run in parallel.</description>
     </item>
     
     <item>
       <title>Supporting partners</title>
-      <link>/post/sponsors/</link>
+      <link>https://recon-escaide-2019.netlify.com/post/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/sponsors/</guid>
-      <description>UK Public Health Rapid Support Team Through the UK Public Health Rapid Support Team (UK-PHRST), the UK has the capacity to respond rapidly to disease outbreaks in low- and middle-income countries around the world and conduct operational research into epidemic preparedness, playing an important role in global health security. The team also works to help countries to build their own capacity for an improved and rapid national response to outbreaks.</description>
+      <guid>https://recon-escaide-2019.netlify.com/post/sponsors/</guid>
+      <description>R Epidemics Consortium (RECON) The R Epidemics Consortium (RECON) is international not-for-profit, non-governmental organisation gathering experts in data science, modelling methodology, public health, operational epidemiology and software development to create the next generation of analytics tools for informing the response to disease outbreaks, health emergencies and humanitarian crises, using the R software and other free, open-source resources. RECON is currently the largest initiative for the development of R packages for epidemiological analysis.</description>
     </item>
     
   </channel>

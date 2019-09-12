@@ -3,46 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/aims/</loc>
+    <loc>https://recon-escaide-2019.netlify.com/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://recon-escaide-2019.netlify.com/post/overview/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/organisers/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://recon-escaide-2019.netlify.com/post/overview/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/practical_info/</loc>
+    <loc>https://recon-escaide-2019.netlify.com/post/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/schedule/</loc>
+    <loc>https://recon-escaide-2019.netlify.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/sponsors/</loc>
+    <loc>https://recon-escaide-2019.netlify.com/post/team/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <priority>0</priority>
+    <loc>https://recon-escaide-2019.netlify.com/post/practical_info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recon-escaide-2019.netlify.com/post/register/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recon-escaide-2019.netlify.com/post/sponsors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://recon-escaide-2019.netlify.com/tags/</loc>
   </url>
   
 </urlset>
