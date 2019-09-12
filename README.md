@@ -1,10 +1,7 @@
 
-# Health Emergency Analytics Workshop
+# Epi + R: two short courses at ESCAIDE 2019
 
-This github repository is used to develop the website of the Health Emergency
-Analytics Workshop co-organised by RECON, the UK Public Health Rapid Support
-Team, the London School of Hygiene and Tropical Medicine, and the Wellcome
-Trust.
+This github repository is used to develop the website of the courses ran by RECON at ESCAIDE 2019, Stockholm.
 
 
 
