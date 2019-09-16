@@ -22,3 +22,8 @@ Control](https://ecdc.europa.eu/en/home) (ECDC) in Stockholm, Sweden. The exact
 address will be confirmed closer to the event.
 
 
+
+## Contact
+
+For any inquiry, please send an email to 'amrish.baidjoe@gmail.com' putting
+'eanboard@gmail.com' and 'thibautjombart@gmail.com' in Cc.

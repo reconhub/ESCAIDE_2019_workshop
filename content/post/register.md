@@ -67,17 +67,16 @@ with the following:
 The cost of the courses is broken down into *registration* and *catering* fees as
 follows:
 
-* RECON / EAN members: &euro; 30
-* Students: &euro; 50
-* Academic staff: &euro; 100
+* RECON / EAN members: &euro; 50
+* Students: &euro; 60
+* Academic staff: &euro; 120
 * Others: &euro; 200
-* Catering: fixed fee TBC
 
 
 
 ### Deadlines
 
-* **applications** will open on the 15th September
+* **applications** will open on the 20th September
 * **payment** must be received within 1 week of the payment request (otherwise
   application will be treated as cancelled)
 * **final confirmations** will be sent upon reception of payment
@@ -89,4 +88,10 @@ cannot predict dates of closure for applications.
 
 ## Application form
 
-The application form will be available soon from this page.
+Please apply using the application form below, or follow [**this link**](https://docs.google.com/forms/d/e/1FAIpQLScjiSvL0ADQCErm4ofVkDMwUbtAMUjXuThcy8X5o_0pgxt22g/viewform?usp=sf_link):
+
+
+<iframe
+src="https://docs.google.com/forms/d/e/1FAIpQLScjiSvL0ADQCErm4ofVkDMwUbtAMUjXuThcy8X5o_0pgxt22g/viewform?embedded=true"
+width="640" height="1978" frameborder="0" marginheight="0"
+marginwidth="0">Loading…</iframe>
