@@ -2,15 +2,13 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 <nav id="nav">
     <ul class="links">
-        <li class="active"><a href='{{ "/" | relLangURL }}'>Home</a></li>
-        <li class="active"><a href='/post/overview'>Course overview</a></li>
-        <li class="active"><a href='/post/team'>Meet the team</a></li>
-        <li class="active"><a href='/post/practical_info'>Practical info</a></li>
-        <li class="active"><a href='/post/register'>Register</a></li>
-        <li class="active"><a href='/post/sponsors'>Partners</a></li>
-        {{ with $data.contactinfo }}
-        <li><a href='{{ "#footer" | relLangURL }}'>{{ i18n "NAV_CONTACT" . }}</a></li>
-        {{ end }}
+        <li><a href='{{ "/" | relLangURL }}'>Home</a></li>
+        <li><a href='/post/overview'>Course overview</a></li>
+        <li><a href='/post/team'>Meet the team</a></li>
+        <li><a href='/post/practical_info'>Practical info</a></li>
+        <li><a href='/post/register'>Register</a></li>
+        <li><a href='/post/sponsors'>Partners</a></li>
+        
         {{ if .IsTranslated }}
         {{ range .AllTranslations }}
         <li {{if eq ($.Site.Language) (.Language)}}class="active"{{end}}><a href='{{ .Permalink }}'>{{ .Language.LanguageName }}</a></li>
