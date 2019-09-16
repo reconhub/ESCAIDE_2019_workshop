@@ -12,13 +12,17 @@ disableComments = true
 
 ## Organisers
 
-* **Amrish Baidjoe** (RECON / EAN): Researcher and consultant in health
+* **Amrish Baidjoe** (RECON / EAN): researcher and consultant in health
   emergencies operational support, research and capacity building, president of
   the [EAN](https://epietalumni.net/) and vice-president of
   [RECON](https://www.repidemicsconsortium.org/). Amrish has extensive field
   experience, and has spent the last months working with WHO on the Rohingya
   refugees crisis. Course organiser and trainer.
 
+
+* **Celine Barnadas** (EAN): co-treasurer of EAN, Celine has a background in
+  applied research and public health microbiology; she is currently working for
+  the WHO. She is handling logistics and treasury aspects for this course.
 
 * [**Thibaut Jombart**](https://thibautjombart.netlify.com/) (LSHTM / ICL /
   UKPHRST / RECON / EAN): Associate Professor in Outbreak Analytics at LSHTM, Senior
@@ -55,6 +59,12 @@ disableComments = true
   RECON packages, and has been integral part of our roster of trainers since our
   first short courses.
   
+  
+* [**Mara Kont**](https://www.imperial.ac.uk/people/mara.kont17) (ICL): Research
+  Assistant in infectious disease modelling, Mara has a background in biomedical
+  sciences and a Master in Public Health, and currently works on Malaria
+  modelling.
+
 
 * [**Christopher Jarvis**](https://uk.linkedin.com/in/c-jarvis) (LSHTM / RECON /
   MAPACTION / UKPHRST): Research Fellow in Statistical Epidemiology, member of Map Action
