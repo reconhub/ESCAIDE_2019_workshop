@@ -25,5 +25,5 @@ address will be confirmed closer to the event.
 
 ## Contact
 
-For any inquiry, please send an email to 'amrish.baidjoe@gmail.com' putting
-'eanboard@gmail.com' and 'thibautjombart@gmail.com' in Cc.
+Any inquiry can be sent by email to Amrish Baidjoe by clicking on
+<a href='mailto:amrish.baidjoe@gmail.com?subject=[pre-ESCAIDE R course] inquiry&cc=eanboard@gmail.com;thibautjombart@gmail.com'>this link</a>.

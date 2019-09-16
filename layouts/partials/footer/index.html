@@ -22,7 +22,8 @@
         {{ with $data.contactinfo.email }}
         <section>
             <h3>{{ i18n "CONTACT_EMAIL" . }}</h3>
-            <p><a href="mailto:{{ . }}">{{ . }}</a></p>
+            <!-- <p><a href="mailto:{{ . }}">{{ . }}</a></p> -->
+            <p><a href="mailto:{{ . }}">Send an email.</a></p>
         </section>
         {{ end }}
         {{ with $data.social }}
