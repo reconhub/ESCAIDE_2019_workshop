@@ -73,6 +73,13 @@ disableComments = true
   Ebola response in North Kivu, DRC.
 
 
+* **David Jorgensen** (ICL): PhD student in infectious disease modelling, David
+  specialises in estimating transmission dynamics of poliovirus in Pakistan and
+  Afghanistan using genetic data. He is also involved in strengthening capacity
+  and risk assessment in response to the current expansion in polio cases in
+  Pakistan.
+
+
 * [**Alexander Spina**](https://github.com/aspina7) (RECON / EAN): Field
   epidemiologist and consultant in epidemiological analysis using R, Alex has
   been a key developer of the [R4epi](https://github.com/R4EPI/sitrep) project,
