@@ -45,21 +45,13 @@ disableComments = true
 
 ## Trainers
 
-<!-- * [**Amy Gimma**](https://www.lshtm.ac.uk/aboutus/people/gimma.amy) (LSHTM / -->
-<!--   RECON): Research Fellow in Outbreak Analytics, Amy is a trained nurse with -->
-<!--   field experience, an infectious disease epidemiologist and a professional -->
-<!--   software developer. She is involved in a development of methods and tools for -->
-<!--   outbreak response analytics. -->
+* [**Amy Gimma**](https://www.lshtm.ac.uk/aboutus/people/gimma.amy) (LSHTM):
+  Research Fellow in Outbreak Analytics, Amy is a trained nurse with field
+  experience, an infectious disease epidemiologist and a professional software
+  developer. She is involved in a development of methods and tools for outbreak
+  response analytics.
 
 
-
-* [**Finlay Campbell**](https://www.imperial.ac.uk/people/f.campbell15) (ICL /
-  RECON): Research Associate in Operational Outbreak Analytics, Finlay
-  specialises in outbreak reconstruction methods. He is a core developer of
-  RECON packages, and has been integral part of our roster of trainers since our
-  first short courses.
-  
-  
 * [**Mara Kont**](https://www.imperial.ac.uk/people/mara.kont17) (ICL): Research
   Assistant in infectious disease modelling, Mara has a background in biomedical
   sciences and a Master in Public Health, and currently works on Malaria
@@ -73,11 +65,11 @@ disableComments = true
   Ebola response in North Kivu, DRC.
 
 
-* **David Jorgensen** (ICL): PhD student in infectious disease modelling, David
-  specialises in estimating transmission dynamics of poliovirus in Pakistan and
-  Afghanistan using genetic data. He is also involved in strengthening capacity
-  and risk assessment in response to the current expansion in polio cases in
-  Pakistan.
+* [**David Jorgensen**](https://www.imperial.ac.uk/people/david.jorgensen13)
+  (ICL): PhD student in infectious disease modelling, David specialises in
+  estimating transmission dynamics of poliovirus in Pakistan and Afghanistan
+  using genetic data. He is also involved in strengthening capacity and risk
+  assessment in response to the current expansion in polio cases in Pakistan.
 
 
 * [**Alexander Spina**](https://github.com/aspina7) (RECON / EAN): Field
