@@ -48,8 +48,9 @@ disableComments = true
 * [**Amy Gimma**](https://www.lshtm.ac.uk/aboutus/people/gimma.amy) (LSHTM):
   Research Fellow in Outbreak Analytics, Amy is a trained nurse with field
   experience, an infectious disease epidemiologist and a professional software
-  developer. She is involved in a development of methods and tools for outbreak
-  response analytics.
+  developer. She was recently deployed as a member of the analytics cell for the
+  Ebola response in North Kivu, DRC, and is involved in a development of methods
+  and software tools for outbreak response analytics.
 
 
 * [**Mara Kont**](https://www.imperial.ac.uk/people/mara.kont17) (ICL): Research
