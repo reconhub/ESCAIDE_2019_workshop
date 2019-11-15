@@ -17,7 +17,7 @@ section for details on venue and timings.
 
 ### Outline
 
-* **Level**: accessible to **R** beginners; see [pre-requisites](register) on
+* **Level**: accessible to **R** beginners; see [pre-requisites](../register) on
   the registration page.
 * **Capacity**: 40 participants
 * **Summary**: an introduction to using **R** for epidemiological analysis.
@@ -59,7 +59,7 @@ Learning outcomes will include:
 ### Outline
 
 * **Level**: aimed at regular / experienced **R** users; see
-  [pre-requisites](register) on the registration page.
+  [pre-requisites](../register) on the registration page.
 * **Capacity**: 20 participants
 * **Summary**: an introduction to new **R** tools for emergency outbreak
   response, currently used by the Ebola analytical cell in North Kivu, DRC.
